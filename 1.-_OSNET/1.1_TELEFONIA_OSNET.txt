@@ -1,0 +1,81 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-09-04T11:17:21-05:00
+
+====== S1.1 TELEFONIA OSNET ======
+Created Saturday 04 September 2021
+
+
+
+*79 dnd
+*79 deshabilitar dnd
+
+======================================================================
+======================================================================
+
+
+
+ejemplo
+https://38.87.233.115:444/#dashboard
+
+38.87.233.115
+
+ejemplo:
+
+1) para verifica la telefonia cuando no tiene mikrotik
+1) verificar la antena, verificar que tiene conectado en el network (en este caso esta un Grandstream Networks, Inc.
+2) se verifica si la antena tiene un Port Forwarding ( de lo contrario crear uno ejemplo )  ip del Router y los puertos 80 y 88
+
+{{~/Downloads/pasted_image (1).png}}
+
+
+
+luego de realizar el paso anterior  se procese a entrar al Grandstream Networks, ejemplo:
+
+
+{{~/Downloads/pasted_image002.png}}
+
+
+si no esta registrado se debe verificar el por que en este caso el numero estaba en el sipa2 es donde esta la clave de registracion en este server sip2.osnetpr.com  
+
+
+ejemplo : 
+
+
+
+{{~/Downloads/pasted_image004.png}}
+
+
+
+en las antenas  5ac se realiza de la siguiente manera 
+
+
+{{~/Downloads/pasted_image005.png}}
+
+se orienta a desconectar el equipo ata de la corriente  para que el mismo tome IP:
+
+
+{{~/Downloads/pasted_image006.png}}
+
+
+sipa.osnetpr.com
+0sn3t@os2o!!
+
+
+{{~/Downloads/pasted_image007.png}}
+
+reiniciar y si no colocarle nuevamente la contraseña del sipa
+
+
+
+//////////////////////////////////////////////////////////////////////////
+
+Registro de extensión de numero 
+{{./pasted_image.png}}
+
+
+port forwarding 
+{{./pasted_image001.png}}
+
+
+

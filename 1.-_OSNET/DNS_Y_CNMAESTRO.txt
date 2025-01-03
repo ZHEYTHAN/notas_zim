@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2024-01-10T12:42:42-05:00
+
+====== VDNS Y CNMAESTRO ======
+Created Wednesday 10 January 2024
+
+DNS DE OSNET:
+
+192.254.96.2
+192.254.96.3
+
+======================================================================
+
+PARA REGISTRAR CN MAESTRO
+cnmaestro.osnetpr.com
+Usuario: cnmaestro_on_premises
+Clave: Osnet2022

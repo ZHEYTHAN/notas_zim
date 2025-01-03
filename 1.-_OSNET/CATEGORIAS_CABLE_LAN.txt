@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2024-05-29T12:41:07-05:00
+
+====== CATEGORIAS CABLE LAN ======
+Created Wednesday 29 May 2024
+
+
+**CATEGORÍA                                VELOCIDAD             FRECUENCIA       VELOCIDAD DE DESCARGA**
+
+ETHERNET CAT 5                      100 Mbps                 100 MHz               15,5 MB/s
+
+ETHERNET CAT 5E                    1.000 Mbps              100 MHz                150,5 MB/s
+
+ETHERNET CAT 6                      1.000 Mbps              250 MHz               150,5 MB/s
+
+ETHERNET CAT 6A                   10.000 Mbps            500 MHz                1.250 MB/s ó 1,25 GB/s
+
+ETHERNET CAT 7                      10.000 Mbps            600 MHz                1,25 GB/s
+
+ETHERNET CAT 7A                   10.000 Mbps             1.000 MHz             1,25 GB/s
+
+ETHERNET CAT 8                      40.000 Mbps             2.000 MHz            5 GB/s

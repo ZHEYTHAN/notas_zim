@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-08-31T22:36:08-05:00
+
+====== AWS SERVER ======
+Created sábado 31 agosto 2024
+
+Al momento de hacer la creación de el servidor se uso Linux / Ubuntu.
+
+En el momento de añadir las reglas de seguridad, se deja activo los siguientes protocolos/puertos:
+
+UDP  PERSONALIZADO     UDP    5699           0.0.0.0/0
+HTTP                                    TCP     80               0.0.0.0/0
+SSH                                       TCP     22               0.0.0.0/0
+UDP  PERSONALIZADO     UDP    5514           0.0.0.0/0
+HTTPS                                  TCP     443             0.0.0.0/0
+UDP PERSONALIZADO      UDP    10001         0.0.0.0/0
+TCP PERSONALIZADO       TCP     8880           0.0.0.0/0
+UDP PERSONALIZADO      UDP    123             0.0.0.0/0
+UDP PERSONALIZADO      UDP    5656           0.0.0.0/0
+UDP PERSONALIZADO      UDP    1900           0.0.0.0/0
+TCP PERSONALIZADO       TCP     8443           0.0.0.0/0
+TCP PERSONALIZADO       TCP     8080           0.0.0.0/0
+TCP PERSONALIZADO       TCP     6789           0.0.0.0/0
+TCP PERSONALIZADO       TCP     8843           0.0.0.0/0
+UDP PERSONALIZADO     UDP    3478            0.0.0.0/0
+

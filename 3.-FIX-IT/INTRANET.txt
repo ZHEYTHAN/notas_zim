@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-09-16T14:26:21-05:00
+
+====== INTRANET ======
+Created lunes 16 septiembre 2024
+
+Para el acceso a la  intranet se hace:
+
+Por medio del CMD se hace ping al nombre del server para ver que ip está tomando.
+
+Luego se hace ping a la Ip del server para ver cual es el nombre con el que responde.
+
+Luego se abre el panel para ejecutar con win + R y se pone el nombre del server 
+Una vez hecho eso, aparece para ingresar las credenciales del server.
+
+Una vez se ingresa al server se busca la carpeta que se va a dejar relacionado, se ingresa dentro de la carpeta y en la barra de arriba se copia la dirección de la carpeta que se va a relacionar.
+
+Luego de ello se da click derecho en este equipo y se da en la opción de CONECTAR, alli se pega la url de la carpeta, sin embargo, también se le puede dar en examinar y debe aparecer la carpeta que se quiere.
+
+luego Ok y ya quedaría vinculado

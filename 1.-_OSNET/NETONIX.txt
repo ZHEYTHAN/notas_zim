@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2024-03-19T15:59:47-05:00
+
+====== NETONIX ======
+Created Tuesday 19 March 2024
+
+FILTRAR MAC DE CLIENTES EN NETONIX:
+
+Se puede filtrar en 
+
+{{./pasted_image.png}}

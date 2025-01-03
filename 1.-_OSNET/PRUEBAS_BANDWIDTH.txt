@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2024-01-10T12:51:15-05:00
+
+====== PRUEBAS BANDWIDTH ======
+Created Wednesday 10 January 2024
+
+Para Bandwich test: 
+204.77.10.18
+Autenticación:
+osnet / O79v6V#+vMHU
+
+BANDWIDTH PARA PR:
+192.254.98.2
+
+BANDWIDTH para GONET:
+23.161.16.0
+admin / sin password
+
+ 

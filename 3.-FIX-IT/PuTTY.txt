@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-08-31T22:24:22-05:00
+
+====== PuTTY ======
+Created sábado 31 agosto 2024
+
+
+
+Comando para vincularlo via SSH al servidor:
+
+Usuario: ubnt
+pass: ubnt
+
+Para el set-inform, se debe usar el http y el puerto 8080, antes de hacer eso se debe asegurar de que el servidor tenga habilitado este puerto, ya que si no está, el controller no recibira la notificación para el aprovicionamiento.
+
+set-inform http://3.12.242.1:8080/inform
+
+
+Se debe tener presente de que una vez adoptado el dispositivo en el server, pierde las credenciales pro defecto y queda con las credenciales que tiene el controller Unifi.
+Aplica para cualquier dispositivo conectado.
+
+
+Comando para reestablecer Default los equipos, vía ssh:
+
+syswrapper.sh restore-default

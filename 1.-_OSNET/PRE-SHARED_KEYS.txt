@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2024-03-05T15:21:04-05:00
+
+====== PRE-SHARED KEYS ======
+Created Tuesday 05 March 2024
+
+PreShared Key de __GONET__:
+Ar827504Cl@
+
+PreShared Key de __OSNET__: 
+osn@it123
+
+PreShared Key de __4NET:__
+4net@199905171999
+
+PreShared Key __PRWIFI:__
+Ryen@199905171999
+
+PreShared Key __DMWIRELESS__:
+DMw@Osnet

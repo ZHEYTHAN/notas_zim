@@ -5,6 +5,18 @@ Creation-Date: 2025-02-18T09:58:23-05:00
 ====== 4.1-USUARIOS ======
 Created martes 18 febrero 2025
 
+EMAIL
+apaez@vpnet.net
+ Cr5180ph
+
+GEO VICTORIA
+https://clients.geovictoria.com/
+1122137480
+Cr5180ph.
+
+*************************************************************************************************************************************
+*************************************************************************************************************************************
+
 Gestio IP
 apaez
 ykv0QFB9fhf!yqd2xcg
@@ -19,26 +31,32 @@ CnMaestro
 apaez
 ykv0QFB9fhf!yqd2xcg
 https://172.18.4.104/
+
+Sonar 
+apaez
+shrederman.com
+https://vpnet.sonar.software/
  
 Autotask: 
+apaez@vpnet.net
+ shrederman.com
 https://ww14.autotask.net/Mvc/Framework/Authentication.mvc/Authenticate?ReturnUrl=%2fMvc%2fFramework%2fNavigation.mvc%2fLanding
 
-
+Nuevo vital
+vpnet
+vpneth@ck3r!!!
+http://162.12.225.250/
 
 Extension Telefono - 2445
-
-VitalPBX Multitenant - User:  Password: 
+VitalPBX Multitenant VIEJOOO
+apaez
+shrederman.com
 http://172.18.4.22/
 
 
-Sonar - User: Password: 
-https://vpnet.sonar.software/
-
-
-Towercoverage User: Password: 
+Towercoverage User: Password:  	
 https://www.towercoverage.com/En-US/Home/
 
-Nuevo vital http://162.12.225.250/
  
 https://vrm.victronenergy.com/installation-overview
  
@@ -54,3 +72,8 @@ Clientes: http://67.215.98.22:8081/Orion/Report.aspx?ReportID=267&ReturnTo=aHR0c
 Tycon: http://172.18.4.89/tyconpm/monitorCurrentStatus.php
 Unsupported Browser | Autotask PSA Authentication
  
+
+
+
+
+

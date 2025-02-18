@@ -1,0 +1,56 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-02-18T09:58:23-05:00
+
+====== 4.1-USUARIOS ======
+Created martes 18 febrero 2025
+
+Gestio IP
+apaez
+ykv0QFB9fhf!yqd2xcg
+http://172.18.4.120/gestioip/
+ 
+Solarwinds
+apaez
+ykv0QFB9fhf!yqd2xcg
+http://67.215.98.22:8081/Orion/Nodes/
+ 
+CnMaestro
+apaez
+ykv0QFB9fhf!yqd2xcg
+https://172.18.4.104/
+ 
+Autotask: 
+https://ww14.autotask.net/Mvc/Framework/Authentication.mvc/Authenticate?ReturnUrl=%2fMvc%2fFramework%2fNavigation.mvc%2fLanding
+
+
+
+Extension Telefono - 2445
+
+VitalPBX Multitenant - User:  Password: 
+http://172.18.4.22/
+
+
+Sonar - User: Password: 
+https://vpnet.sonar.software/
+
+
+Towercoverage User: Password: 
+https://www.towercoverage.com/En-US/Home/
+
+Nuevo vital http://162.12.225.250/
+ 
+https://vrm.victronenergy.com/installation-overview
+ 
+https://cloudus.codesoftware.net/ClobbaAuth/Login?ReturnUrl=https%3A%2F%2Fcloudus.codesoftware.net%2FClobba%2F
+ 
+ 
+Reportes: 
+
+sites: http://67.215.98.22:8081/Orion/Report.aspx?ReportID=265&ReturnTo=aHR0cDovLzY3LjIxNS45OC4yMjo4MDgxL29yaW9uL3JlcG9ydHMvdmlld3JlcG9ydHMuYXNweA==
+
+Clientes: http://67.215.98.22:8081/Orion/Report.aspx?ReportID=267&ReturnTo=aHR0cDovLzY3LjIxNS45OC4yMjo4MDgxL29yaW9uL3JlcG9ydHMvdmlld3JlcG9ydHMuYXNweA%3d%3d&showid=334a95d911104e23a56e1a4be55fcfdd
+
+Tycon: http://172.18.4.89/tyconpm/monitorCurrentStatus.php
+Unsupported Browser | Autotask PSA Authentication
+ 

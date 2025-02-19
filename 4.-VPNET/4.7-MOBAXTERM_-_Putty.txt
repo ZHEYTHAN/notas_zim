@@ -1,0 +1,130 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-01-22T10:12:03-05:00
+
+====== 4.7-MOBAXTERM - Putty ======
+Created Monday 22 January 2024
+
+
+ 
+Primero se realiza la conexión al MPLS del equipo colocando "Telnet" + "IP"
+ 
+__Para realizar el listado de los puertos:__ **display interface brief** para visualizar más con  "Espacio"
+ 
+__Para reiniciar un puerto:__
+ 
+system-view colocando después interface + (colocar la interfaz del puerto GE - XGE) + Puerto
+ 
+ 
+ {{./pasted_image.png}}
+
+{{./pasted_image001.png}}
+ 
+ 
+**Shutdown** para apagar y **Undo shutdown** para encender el puerto
+ 
+ 
+Para saber el uptime y el reinicio del puerto: **display version**
+ 
+__Para logs:__
+ 
+Para ver los logs de eventos del dispositivo: **display logbuffer reverse**
+ 
+Para visualizar o cambiar la configuración de un puerto:
+ 
+**system-view** después se  ingresa **interface** + (colocar la interfaz del puerto GE - XGE) + **Puerto Display this**
+
+== ===================================================================================================================================== ==
+
+== ===================================================================================================================================== ==
+
+
+Ten-GigabitEthernet1/0/52 transceiver diagnostic information
+
+{{./pasted_image002.png}}
+
+
+diagnostic information
+N
+/ información del HPe 
+
+{{./pasted_image003.png}}
+
+**Interfaces**
+Gigabyte (GE)
+Ten-Gigabyte(XGE)
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Para filtrar la mac de un cliente que sea dificil de rastear se puede
+
+**display  mac-address xxxx-xxxx-xxxx**
+
+alli aparecerá así:
+
+{{./pasted_image004.png}}
+
+
+GigabitEthernet1/0/35 muestra el puerto por donde sale el AP (Aquí sería el puerto 35),
+
+Luego sería ver que AP sale por el puerto 35:
+
+**display interface brief**
+
+{{./pasted_image005.png}}
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Para mirar las VLAN se usa **system-view**
+
+{{./pasted_image006.png}}
+
+Luego se ingresa al puerto que se va a validar 
+{{./pasted_image007.png}}
+
+y luego se da display this
+
+{{./pasted_image008.png}}
+
+Y se vería algo así 
+
+{{./pasted_image009.png}}
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Para validar que el VLAN este activo, se busca en el interface brief que puerto es el AP que se quiere validar, 
+
+después se valida el puerto con **display current-configuration interface GigabitEthernet x/x/x**
+
+{{./pasted_image010.png}}
+
+Si no está, como en el puerto 2/0/22, se ingresa al puerto con **system-view** y luego **interface GigabitEthernet x/x/x **y se activa la vlan con:
+
+**service-instance #VLAN**
+**encapsulation s-vid #VLAN**
+**xconnect vsi vlan#VLAN **(por ejemplo: xconnect vsi vlan3087)
+
+luego se da ctrl+z para salir del puerto y se da **save,** luego enter, luego **Y,** luego enter, enter, luego **Y**
+
+Con esto ya debería quedar la vlan activa.
+
+{{./pasted_image011.png}}
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+

@@ -14,6 +14,12 @@ https://clients.geovictoria.com/
 1122137480
 Cr5180ph.
 
+VPN (Conexión por fortiClient).
+Usuario: 
+apaez
+Pwd:
+p@eZAA18#
+
 *************************************************************************************************************************************
 *************************************************************************************************************************************
 
@@ -53,12 +59,27 @@ apaez
 shrederman.com
 http://172.18.4.22/
 
+PRESEEM
+https://app.preseem.com/user/support
+apaez
+apaez123
 
-Towercoverage User: Password:  	
+VICTRON
+User:
+vpnetdude@gmail.com
+pass:
+S3cur3N0c!@# 
+https://vrm.victronenergy.com/installation-overview
+
+Towercoverage 
+User: 
+apaez@vpnet.net
+Password: 
+apaez123
 https://www.towercoverage.com/En-US/Home/
 
- 
-https://vrm.victronenergy.com/installation-overview
+***
+
  
 https://cloudus.codesoftware.net/ClobbaAuth/Login?ReturnUrl=https%3A%2F%2Fcloudus.codesoftware.net%2FClobba%2F
  

@@ -36,6 +36,11 @@ Pass: vpnet
  
 otros clientes 
 Vpnet - h@ck3r*!$
-Vpnet - vpneth@ck3r!!!
+Vpnet - vpneth@ck3r!!!    (referencia a vpnet largo se utiliza mayormente pa ip publico etc.. siempre cambiar a este)
+admin - dataccess
+Th3N3wVPN3t!
  
 admin/ m1z7743 (rent express o berrios)
+
+
+Noc - s3cur3n0c ---> Switches a veces

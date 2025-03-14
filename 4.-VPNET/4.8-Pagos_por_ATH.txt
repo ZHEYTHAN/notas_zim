@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-03-10T10:58:01-05:00
+
+====== 4.8-Pagos por ATH ======
+Created lunes 10 marzo 2025
+
+Para pagar por ATH
+ 
+Que el cliente se dirija a negocios 
+busque vpnet  inc
+debe hacer el pago del saldo total que quede en 0
+en el mensaje debe colocar el numero de cuenta (solo eso) si pone otra info no le sube SOLO EL NUMERO DE CUENTA 
+ 
+si pone la cuenta en 0 el sistema le activa 

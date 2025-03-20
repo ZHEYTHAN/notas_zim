@@ -13,4 +13,9 @@ Pass:
 btest 
 
 
+172.18.4.15 admin sin contraseña 
+10.10.6.54 radius 
+10.10.6.219 radius 
+
+
 DNS

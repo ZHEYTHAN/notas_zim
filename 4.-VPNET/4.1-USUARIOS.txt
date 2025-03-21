@@ -20,7 +20,7 @@ apaez
 Pwd:
 p@eZAA18#
 
-PENDIENTE RADIUS:
+RADIUS.
 user
 apaez
 password

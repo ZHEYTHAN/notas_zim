@@ -16,9 +16,9 @@ Cr5180ph.
 
 VPN (Conexión por fortiClient).
 Usuario: 
-apaez
+__apaez__
 Pwd:
-p@eZAA18#
+**__p@eZAA18#__**
 
 RADIUS.
 user

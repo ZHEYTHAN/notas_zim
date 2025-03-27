@@ -1,0 +1,59 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-03-25T13:00:49-05:00
+
+====== 4.10-Plantillas-Omni ======
+Created martes 25 marzo 2025
+
+Sin información
+ 
+¡Hola!
+Es un gusto saludarte. Para poder continuar con la revisión de tu cuenta, ¿podrías compartirnos la siguiente información del titular?
+Nombre completo
+Número de cuenta
+Número de celular registrado
+ 
+Adicional nos puede detallar el problema presentado con su servicio
+ 
+¡Quedo atento a tu respuesta y estoy aquí para ayudarte con lo que necesites! 
+
+***********************************************************************************************************************************************************
+***********************************************************************************************************************************************************
+***********************************************************************************************************************************************************
+ 
+Router down                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ 
+por favor desconecte el router de la electricidad, espere 10 segundos y vuelva a conectarlo. Esto ayudará a resolver posibles problemas. 😊
+ 
+Envio tecnico
+ 
+ 
+Gracias por la espera.  
+
+se genera el número de ticket # XXXX para su seguimiento 
+
+El ticket se encuentra escalado al área de proyectos, ya que es necesario realizar una visita técnica, pronto se pondrán en contacto (su número que tenemos de contacto es XXX-XXXX-XXXX) para coordinar la dirección y programar una fecha y hora de visita 
+
+
+De igual manera, puedes estar comunicándote para conocer los avances y el estado del ticket
+
+***********************************************************************************************************************************************************
+***********************************************************************************************************************************************************
+*********************************************************************************************************************************************************** 
+
+Antena down
+ 
+Se requiere el favor de que se dirija al Router
+Detrás de el va a encontrar un cable negro que va a la toma corriente y justamente al lado encontrara un cable blanco, azul o negro
+Si el cable es negro
+Desconectarlo por 10 segundos luego reiniciar el Router también desconectándolo de la corriente por 10 segundos
+Espere 10 minutos y nos confirma si ya tiene servicio o si no
+Si el cable es blanco o azul
+Seguir dicho cable y llegara a una caja un poco mas pequeña parecida a un power suply (similar al de la imagen)
+En esta caja va a encontrar 3 cables uno negro (viene desde la antena), uno blanco (el que acabamos de seguir) y uno de corriente
+Vamos a desconectar el de corriente por 10 segundos
+Luego hacemos el mismo procedimiento con el cable negro (este tiene una especie de gancho el cual oprime hacia abajo y sale mas facil)
+Por ultimo desconectamos por 10 segundos también el cable blanco
+Esperamos 10 minutos y nos confirma si tiene o no servicio
+Gracias 
+ 

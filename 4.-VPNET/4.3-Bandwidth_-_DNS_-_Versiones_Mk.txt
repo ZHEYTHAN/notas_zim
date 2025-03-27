@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2025-02-18T17:09:50-05:00
 
-====== 4.3-Bandwidth - DNS ======
+====== 4.3-Bandwidth - DNS - Versiones Mk ======
 Created martes 18 febrero 2025
 
 ip de pruebas 
@@ -19,3 +19,5 @@ btest
 
 
 DNS
+
+https://mikrotik.com/download/archive

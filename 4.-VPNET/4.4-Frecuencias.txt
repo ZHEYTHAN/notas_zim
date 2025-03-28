@@ -8,5 +8,6 @@ Creation-Date: 2024-01-24T10:54:28-05:00
 __5560-5660 __
 __frecuencias prohibidas__
  
+5180 frecuencia para Mk AX2 en el 5G(Para que optimice la señal)
 
 {{./pasted_image.png}}

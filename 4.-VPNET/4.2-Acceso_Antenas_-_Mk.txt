@@ -74,6 +74,9 @@ noc - s3cur3n0c
 vJUHpMHn
 ppewPq87
 
+pass para user enable en modo privilegios:
+s00z32011
+ 
 
 
 ****************************************************************

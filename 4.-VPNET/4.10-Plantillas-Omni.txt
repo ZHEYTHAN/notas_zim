@@ -92,4 +92,17 @@ Luego hacemos el mismo procedimiento con el cable negro (este tiene una especie 
 Por ultimo desconectamos por 10 segundos también el cable blanco
 Esperamos 10 minutos y nos confirma si tiene o no servicio
 Gracias 
+
+
+ANTENA DOWN.
+
+Se ha detectado que la antena no está respondiendo a las pruebas, puede que la antena se encuentre mal conectada y/o se encuentre frizada o hangueada.
+
+Se requiere el favor de que se dirija al Router
+De la antena que se encuentra en su techo, baja un cable de color negro al interior de la casa, este cable negro en el interior de su casa llegara a una caja un poco mas pequeña parecida a un power suply (Una cajita negra rectangular pequeña, parece el cargador de una laptop)
+En esta caja va a encontrar 3 cables uno negro (viene desde la antena), uno blanco/azul o amarillo (Que va hacia el router) y uno de corriente
+Vamos a desconectar el de corriente por 10 segundos
+
+Luego reconectamos y nos aseguramos de que esta caja encienda una luz en color verde o azul y que se mantenga estable, en caso de que quede flasheando, por favor pruebe otro receptaculo de corriente.
+Gracias
  

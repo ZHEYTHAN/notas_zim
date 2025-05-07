@@ -1,0 +1,97 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-05-06T18:43:55-05:00
+
+====== respuestas en ingles ======
+Created martes 06 mayo 2025
+
+Buen día, mi nombre es andres paez de soporte técnico de osnet
+**​Good day , my name is Andres Paez from Osnet technical support**
+
+Como puedo ayuarlo el día de hoy?
+**How can I help you today?**
+
+Aparece como si el router se hubiera desconectado, entonces vamos a verificar
+**It appears as if the router has been disconnected, so let's check**
+
+Me puede indicar cuál es la marca de su equipo router
+**Can you tell me what brand of your router equipment is?**
+
+atrás  router va a encontrar un puerto de ethernet que dice WAN
+**behind the router you will find an ethernet port that says WAN**
+
+Por favor, desconecta tu router de la electricidad.
+**Please, disconnect your router from the electricity **
+
+Por favor espere un momento
+**hold on a moment online, please.**
+
+gracias por esperar en línea
+**thanks for holding online**
+
+Si seguimos ese cable lan hasta la otra punta, vamos a encontrar una caja más pequeña, esa caja pequeña de que color es?
+**If we follow that lan cable to the other end, we are going to find a smaller box, what color is that small box?**
+
+Esa caja pequeña es un Power Supply
+**That small box is a Power Supply**
+
+en el power supply encontramos tres cables, el primero es el lan que conecta con el router, el segundo es de color negro que conecta con la antena, y el tercero es el cable de energia
+**In the power supply we find three cables, the first is the LAN that connects to the router, the second is black that connects to the antenna, and the third is the power cable.**
+
+Por favor desconecte el cable de energía del power supply
+**Please disconnect the power cord from the power supply**
+
+conectemos nuevamente el cable de energia del Power supply
+**Let's reconnect the power cable from the Power supply**
+
+Vamos a esperar entre dos o tres minutos que demora en cargar la antena y conectarse a la red
+**We are going to wait two or three minutes for the antenna to charge and connect to the network.**
+
+Por favor verifique nuevamente el internet, conectese a la red wifi y me confirma si funciona el servicio
+**Please check the internet again, connect to the Wi-Fi network and confirm if the service works.**
+
+Sigo trabajando en el servicio, por favor no finalice la llamada.
+**I'm still working on the service, please don't end the call.**
+
+
+*********************************************************************************
+*********************************************************************************
+
+Estoy llamando haciendo seguimiento a un reporte de servicio
+**I am calling to follow up on a service report**
+
+En el momento veo que el servicio se encuentra funcionando y que se muestra tráfico en la antena 
+**At the moment I see that the service is working and that traffic is shown on the antenna**
+
+¿Me comunico con la señora xxxx?
+**Shall I contact Mrs. xxxx?**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

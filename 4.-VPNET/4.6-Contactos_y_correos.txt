@@ -6,6 +6,7 @@ Creation-Date: 2025-02-19T17:51:02-05:00
 Created miércoles 19 febrero 2025
 
 technical@vpnet.net
+support@vpnet.net     <======>     Estan copiadas las personas de proyectos.
 
 
 ********************proveedores***********************

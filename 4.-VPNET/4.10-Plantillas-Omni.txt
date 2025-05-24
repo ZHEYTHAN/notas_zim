@@ -94,21 +94,7 @@ De igual manera, puedes estar comunicándote para conocer los avances y el estad
 ***********************************************************************************************************************************************************
 *********************************************************************************************************************************************************** 
 
-Antena down
- 
-Se requiere el favor de que se dirija al Router
-Detrás de el va a encontrar un cable negro que va a la toma corriente y justamente al lado encontrara un cable blanco, azul o negro
-Si el cable es negro
-Desconectarlo por 10 segundos luego reiniciar el Router también desconectándolo de la corriente por 10 segundos
-Espere 10 minutos y nos confirma si ya tiene servicio o si no
-Si el cable es blanco o azul
-Seguir dicho cable y llegara a una caja un poco mas pequeña parecida a un power suply (similar al de la imagen)
-En esta caja va a encontrar 3 cables uno negro (viene desde la antena), uno blanco (el que acabamos de seguir) y uno de corriente
-Vamos a desconectar el de corriente por 10 segundos
-Luego hacemos el mismo procedimiento con el cable negro (este tiene una especie de gancho el cual oprime hacia abajo y sale mas facil)
-Por ultimo desconectamos por 10 segundos también el cable blanco
-Esperamos 10 minutos y nos confirma si tiene o no servicio
-Gracias 
+
 
 
 ANTENA DOWN.

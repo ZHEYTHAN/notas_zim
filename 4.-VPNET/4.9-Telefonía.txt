@@ -13,6 +13,7 @@ passwords:
 admin/admin
 vpnet/vpnet
 admin/VPNet2025
+VPNet2025
 
 
 {{.\pasted_image.png}}

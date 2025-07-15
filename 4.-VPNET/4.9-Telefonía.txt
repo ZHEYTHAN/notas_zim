@@ -30,8 +30,29 @@ T4_660 ... T4_63.
 EL RING GROUP NO ESTA RECONOCIENDO AL T4_63, TOCO CREARLE UN INCOMING ROUTE.
 {{.\pasted_image002.png}}
 
+************************************************************************************************************************************************************************************************************
+************************************************************************************************************************************************************************************************************
+************************************************************************************************************************************************************************************************************
 
-
+1. Mirar el excel que números están disponibles y seleccionar el número correspondiente llenando los recuadros del excel.
+2. Ingresar a 172.18.4.22 —> Seleccionar clientes > PBX > Extensions > Extension  y buscar una extensión disponible
+3. En general, se rellenan los campos Name — Internal CID — External CID Emergency — Con el nombre de la cliente y el número seleciconado previamente en el excel.
+4. Se da Save y se actualiza.
+5. Luego en general se ve que se mantenga la extensión seleccionada y luego se cambia a la pestaña de INCOMING ROUTES.
+6. En Incoming Routes se pone nombre en DESCRIPTION — Número en DID PATTERN.
+7. Save actualizar (Actualizar en la parte de arriba a la derecha en el icono que aparece.).
+8. Luego de actualizado, se cambia de clientes a CLOUD PBX.
+9. Luego se va a ADMIN > Admin > Tenants.
+10. En Tenants en los tres puntos de la derecha, se desplega el menu y se selecciona la opción clientes (Cuando son residenciales, o se busca al comercial dependiendo del caso).
+11. Después de seleccionar clientes, se cambia la pestaña de general a pestaña de CALLS ROUTING.
+12. Se desliza la pantalla hasta abajo al último número (DID PATTERN) Y se da ADD, se escribe el número en el recuadro y se da add nuevamente.
+13. se da click en Update (Save) y luego actualizar.
+14. Luego se pasa al otro vital 162.12.225.250
+15. Se ingresa a PBX > EXTERNAL > INBOUND ROUTES 
+16. En el recuadro GENERAL se escribe en DESCRIPTION el nombre del cliente y DID PATTERN el número del cliente (Que fue el que se seleccionó en el excel).
+17. En la misma ventana abajo aparece INBOUND DESTINATION el recuadro de la izquierda se selecciona TRUKNS  y en la derecha CLIENTESTENANT.
+18. Save y actualizar.
+19. Luego de aquí ya es configurar el equipo del cliente.
 
 
 

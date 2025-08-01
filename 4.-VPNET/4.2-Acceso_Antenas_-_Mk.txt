@@ -48,6 +48,7 @@ User: admin
 Pass: vpnet
  
 otros clientes 
+admin - juny
 Vpnet - h@ck3r*!$
 Vpnet - vpneth@ck3r!!!    (referencia a vpnet largo se utiliza mayormente pa ip publico etc.. siempre cambiar a este)
 admin - dataccess

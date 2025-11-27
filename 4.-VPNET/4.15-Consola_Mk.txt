@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-11-13T20:55:53-05:00
+
+====== 4.15-Consola Mk ======
+Created jueves 13 noviembre 2025
+
+Cambio de modo de mikrotiks, este es equipo ax2
+{{.\pasted_image.png}}
